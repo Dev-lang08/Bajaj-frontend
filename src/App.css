@@ -1,0 +1,48 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
+
+.dropdown {
+  margin-top: 20px;
+  width: 300px;
+}
+
+.response {
+  margin-top: 20px;
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
